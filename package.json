@@ -12,7 +12,7 @@
     "apn": "^2.2.0",
     "bufferhelper": "^0.2.1",
     "compression": "^1.7.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fcm-node": "^1.5.1",
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
